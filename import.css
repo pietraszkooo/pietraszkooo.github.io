@@ -1,0 +1,33 @@
+body{
+	background-color:white;
+	color:white;
+	font-weight: bold;
+	text-align:center;
+}
+div{
+margin-left:1px;
+}
+.jadom{
+	background-color:green;
+	padding-bottom:40px;
+	margin:5px;
+	width:25%;
+	height:15%;
+	border: 5px solid cyan;
+}
+.kaczucha{
+	background-color:red;
+	padding-bottom:40px;
+	margin:5px;
+	width:25%;
+	height:15%;
+	border: 5px solid cyan;
+}
+.pojechali{
+	background-color:purple;
+	padding-bottom:40px;
+	margin:5px;
+	width:25%;
+	height:15%;
+	border: 5px solid cyan;
+}
